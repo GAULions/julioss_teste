@@ -32,7 +32,7 @@ if (!isset($_SESSION['consulta'])) {
                     </div>
                     <div class="panel-body">
 
-                        <div id="table" class="row">
+                        <div id="table" class="table-responsive">
                         </div>
 
                     </div>

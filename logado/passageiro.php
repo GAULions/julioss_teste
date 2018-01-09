@@ -31,7 +31,7 @@ if (!isset($_SESSION['consulta'])) {
                         </button>
                     </div>
                     <div class="panel-body">
-                        <div id="table" class="row">
+                        <div id="table" class="table-responsive">
                         </div>
                     </div>
                 </div>                 
