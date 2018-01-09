@@ -35,14 +35,14 @@ if (isset($_SESSION['consulta'])) {
                                             <span class="help-block">Informe seu login:</span>
                                         </div>
                                         <div class="col-lg-4 col-sm-4 col-xs-12 col-md-4">
-                                            <input id="login" type="text" name="login" class="form-control input-sm" placeholder="Digite seu login"/>
+                                            <input id="login" type="text" name="login" class="form-control input-sm" value="teste" placeholder="Digite seu login"/>
                                         </div>
 
                                         <div class="col-lg-2 col-sm-2 col-xs-12 col-md-2 text-center">
                                             <span class="help-block">Informe sua senha:</span>
                                         </div>
                                         <div class="col-lg-4 col-sm-4 col-xs-12 col-md-4">
-                                            <input id="senha" type="password" name="senha" class="form-control input-sm" placeholder="Digite seu password"/>
+                                            <input id="senha" type="password" name="senha" class="form-control input-sm" value="teste" placeholder="Digite seu password"/>
                                         </div>
 
                                     </div>           
